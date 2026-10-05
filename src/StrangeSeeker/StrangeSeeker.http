@@ -1,0 +1,6 @@
+@StrangeSeeker_HostAddress = http://localhost:5243
+
+GET {{StrangeSeeker_HostAddress}}/welcome/
+Accept: application/text
+
+###
